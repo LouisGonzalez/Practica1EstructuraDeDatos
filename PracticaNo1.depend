@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581930770 source:/home/luisitopapurey/Escritorio/Estructura de datos/PracticaNo1/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
